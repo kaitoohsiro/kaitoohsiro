@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### My name is kaito😁
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kaitoohsiro&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoohsiro&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kaitoohsiro&show_icons=true&theme=radical" />
 </a>
