@@ -9,8 +9,9 @@
 </a>
 
 # Skills
-
+### Language
 [![](https://img.shields.io/badge/-php-000?style=flat&logo=php)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=Vue.js)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-Laravel-000?style=flat&logo=Laravel)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-Terraform-000?style=flat&logo=terraform)](https://github.com/kaitoohsiro)
