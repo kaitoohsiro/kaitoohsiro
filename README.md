@@ -1,3 +1,9 @@
+# Kaito Oshiro
+[![](https://img.shields.io/badge/Portfolio-kaifolio-blue)]()
+[![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=Twitter)](https://github.com/kaitoohsiro)Twitter
+[![](https://img.shields.io/badge/Twitter-Kaito-blue)](https://twitter.com/Kaito14123925)
+[![](https://img.shields.io/badge/Qiita-Kaito-green)](https://qiita.com/kaito_111) 
+
 ### Hi there 👋
 ### My name is kaito😁
 
