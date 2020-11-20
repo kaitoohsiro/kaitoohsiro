@@ -21,17 +21,20 @@
 [![](https://img.shields.io/badge/-Django-000?style=flat&logo=Django)](https://github.com/kaitoohsiro)
 
 ### Others
+[![](https://img.shields.io/badge/-Docker.js-000?style=flat&logo=Docker.js)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-Heroku-000?style=flat&logo=Heroku)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-Vagrant-000?style=flat&logo=Vagrant)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=MySQL)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL)](https://github.com/kaitoohsiro)
+
+# Hobby
+
 - guitar🎸
 - ukulele
 - diving🏝
 - Snorkeling🤿
 - drive🚘
 - programming
-
-# Hobby
-
-![](https://komarev.com/ghpvc/?username=yuta17&color=green)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hassan/contributions.svg)](http://qiita.com/hassan)
 
 <!--
 **kaitoohsiro/kaitoohsiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
