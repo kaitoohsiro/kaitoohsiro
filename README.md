@@ -2,6 +2,11 @@
 ### My name is kaito😁
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoohsiro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoohsiro&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoohsiro&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoohsiro&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoohsiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kaitoohsiro/kaitoohsiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
