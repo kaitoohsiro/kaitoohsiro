@@ -10,9 +10,9 @@
 
 # Skills
 
-[![](https://img.shields.io/badge/-Rails-000?style=flat&logo=php)](https://github.com/kaitoohsiro)
-[![](https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=Vue.js)](https://github.com/kaitoohsiro)
-[![](https://img.shields.io/badge/-AWS-000?style=flat&logo=Laravel)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-php-000?style=flat&logo=php)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=Vue.js)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-Laravel-000?style=flat&logo=Laravel)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-Terraform-000?style=flat&logo=terraform)](https://github.com/kaitoohsiro)
 
 [![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/kaitoohsiro)
