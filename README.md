@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is kaito😁
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
 
 
 <!--
