@@ -12,6 +12,7 @@
 ### Language
 [![](https://img.shields.io/badge/-php-000?style=flat&logo=php)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-python-000?style=flat&logo=python)](https://github.com/kaitoohsiro)
 
 ### Framework
 [![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=Vue.js)](https://github.com/kaitoohsiro)
