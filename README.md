@@ -21,11 +21,14 @@
 [![](https://img.shields.io/badge/-Django-000?style=flat&logo=Django)](https://github.com/kaitoohsiro)
 
 ### Others
-[![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/kaitoohsiro)
-[![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)](https://github.com/kaitoohsiro)
-[![](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL)](https://github.com/kaitoohsiro)
+- guitar🎸
+- ukulele
+- diving🏝
+- Snorkeling🤿
+- drive🚘
+- programming
 
-# Others
+# Hobby
 
 ![](https://komarev.com/ghpvc/?username=yuta17&color=green)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hassan/contributions.svg)](http://qiita.com/hassan)
