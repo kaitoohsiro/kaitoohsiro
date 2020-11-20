@@ -12,13 +12,17 @@
 ### Language
 [![](https://img.shields.io/badge/-php-000?style=flat&logo=php)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript)](https://github.com/kaitoohsiro)
-[![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=Vue.js)](https://github.com/kaitoohsiro)
-[![](https://img.shields.io/badge/-Laravel-000?style=flat&logo=Laravel)](https://github.com/kaitoohsiro)
-[![](https://img.shields.io/badge/-Terraform-000?style=flat&logo=terraform)](https://github.com/kaitoohsiro)
 
+### Framework
+[![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=Vue.js)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=Nuxt.js)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-Laravel-000?style=flat&logo=Laravel)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-Django-000?style=flat&logo=Django)](https://github.com/kaitoohsiro)
+
+### Others
 [![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)](https://github.com/kaitoohsiro)
-[![](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL)](https://github.com/kaitoohsiro)
 
 # Others
 
