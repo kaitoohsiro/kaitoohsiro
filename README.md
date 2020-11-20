@@ -1,6 +1,6 @@
 # Kaito Oshiro
 
-[![](https://img.shields.io/badge/-appveyor-000?style=flat&logo=appveyor)](https://kaitoohsiro.github.io/KaiFolio/)
+[![](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=appveyor)](https://kaitoohsiro.github.io/KaiFolio/)
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=Twitter)](https://twitter.com/Kaito14123925)
 [![](https://img.shields.io/badge/-Qiita-000?style=flat&logo=Qiita)](https://qiita.com/kaito_111) 
 
@@ -42,7 +42,7 @@
 - diving🏝
 - Snorkeling🤿
 - drive🚘
-- programming
+- programming💻
 
 <!--
 **kaitoohsiro/kaitoohsiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
