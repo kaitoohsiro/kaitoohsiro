@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/-Django-000?style=flat&logo=Django)](https://github.com/kaitoohsiro)
 
 ### Others
-[![](https://img.shields.io/badge/-Docker.js-000?style=flat&logo=Docker.js)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-Heroku-000?style=flat&logo=Heroku)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-Vagrant-000?style=flat&logo=Vagrant)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=MySQL)](https://github.com/kaitoohsiro)
