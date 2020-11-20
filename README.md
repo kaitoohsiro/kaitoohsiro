@@ -8,7 +8,21 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoohsiro&langs_count=6" />
 </a>
 
+# Skills
 
+[![](https://img.shields.io/badge/-Rails-000?style=flat&logo=php)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=Vue.js)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-AWS-000?style=flat&logo=Laravel)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-Terraform-000?style=flat&logo=terraform)](https://github.com/kaitoohsiro)
+
+[![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)](https://github.com/kaitoohsiro)
+
+# Others
+
+![](https://komarev.com/ghpvc/?username=yuta17&color=green)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hassan/contributions.svg)](http://qiita.com/hassan)
 
 <!--
 **kaitoohsiro/kaitoohsiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
