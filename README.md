@@ -1,6 +1,6 @@
 # Kaito Oshiro
 
-[![](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=appveyor)](https://kaitoohsiro.github.io/KaiFolio/)
+[![](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=appveyor)](https://KaiFolio.web.app)
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=Twitter)](https://twitter.com/Kaito14123925)
 [![](https://img.shields.io/badge/-Qiita-000?style=flat&logo=Qiita)](https://qiita.com/kaito_111) 
 
@@ -19,6 +19,7 @@
 [![](https://img.shields.io/badge/-php-000?style=flat&logo=php)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-python-000?style=flat&logo=python)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-go-?style=flat&logo=go](https://github.com/kaitoohsiro)
 
 ### Framework
 [![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=Vue.js)](https://github.com/kaitoohsiro)
