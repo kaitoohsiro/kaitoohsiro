@@ -20,6 +20,7 @@
 [![](https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-python-000?style=flat&logo=python)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-swift-000?style=flat&logo=swift)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-go-000?style=flat&logo=go)](https://github.com/kaitoohsiro)
 
 ### Framework
 [![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=Vue.js)](https://github.com/kaitoohsiro)
@@ -35,6 +36,8 @@
 [![](https://img.shields.io/badge/-Vagrant-000?style=flat&logo=Vagrant)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=MySQL)](https://github.com/kaitoohsiro)
 [![](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript)](https://github.com/kaitoohsiro)
+[![](https://img.shields.io/badge/-Matlab-000?style=flat&logo=Matlab)](https://github.com/kaitoohsiro)
 
 # Hobby
 
